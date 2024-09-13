@@ -1,7 +1,7 @@
 # airflow-dag-with-python-operator
 
 ## Overview
-This is Proof of Concept for representing a data pipeline as DAG in Airflow.
+This is Proof of Concept for representing a data pipeline as DAG (Directed Acyclic Graph) in Airflow.
 
 ## Use Case
 Process /etc/password file
