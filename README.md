@@ -15,3 +15,6 @@ Medium
 
 ## Dataset
 /etc/passwd file
+
+## Solution
+Extract 3 fields from /etc/passwd file, replace field seperator colon with comma (transformation) and load the resulting output into csv file.
