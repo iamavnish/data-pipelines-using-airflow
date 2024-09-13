@@ -1,7 +1,7 @@
 # airflow-dag-with-python-operator
 
 ## Overview
-This is Proof of Concept for creating a data pipeline using Airflow DAG.
+This is Proof of Concept for representing a data pipeline as DAG in Airflow.
 
 ## Use Case
 Process /etc/password file
