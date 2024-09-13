@@ -4,7 +4,7 @@
 This is Proof of Concept for representing a data pipeline as DAG (Directed Acyclic Graph) in Airflow.
 
 ## Use Case
-Process /etc/password file
+Extract 3 fields from /etc/passwd file, replace field seperator, colon with comma and load the resulting output into csv file.
 
 ## PoC Complexity Level
 Medium
